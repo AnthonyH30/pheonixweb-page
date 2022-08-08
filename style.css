@@ -300,6 +300,7 @@ body{
     .blur-one{
         top: 25vh;
         right: 0vw;
+        display: none;
     }
 
     .email-section{
