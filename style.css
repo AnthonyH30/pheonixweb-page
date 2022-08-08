@@ -205,11 +205,11 @@ body{
     height: 40px;
     border: none;
     outline: none;
-    width: 230px;
+    width: 210px;
 }
 
 .submit{
-    width: 70px;
+    width: 60px;
     height: 40px;
     border: none;
     color: #0e1013;
@@ -219,7 +219,7 @@ body{
 .footer{
     background-color: #0e1013;
     height: 90px;
-    width: 100%;
+    width: 100vw;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -299,7 +299,7 @@ body{
 
     .blur-one{
         top: 25vh;
-        right: -80vw;
+        right: 0vw;
     }
 
     .email-section{
